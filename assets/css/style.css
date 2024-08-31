@@ -336,7 +336,7 @@ ul {
 }
 
 .plan-cost::before {
-    content: "$";
+    content: "Rp.";
 }
 
 .monthly {
